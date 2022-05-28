@@ -8,4 +8,4 @@ Wow! I got this working.
 still havew no idea how this works, but my instagram is
 ([Instagram](https://www.instagram.com/erolhalim_/))
 
-Yeah, I didn't either.
+SHIT COOL AS FUCK THO
