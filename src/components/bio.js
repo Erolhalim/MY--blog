@@ -44,11 +44,7 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-<<<<<<< HEAD
-          Written by <strong>{'Erol Mehmet Halim'}</strong> {author?.summary || null}
-=======
           Written by <strong>{'Erol Halim'}</strong> {author?.summary || null}
->>>>>>> a62e180a4b131661bc385660e3292e108abe9fdb
           {` `}
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
             You should follow them on Twitter
